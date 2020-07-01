@@ -1,0 +1,25 @@
+body{
+  background-image: url("collage muski.png");
+  background-size: 500px 350px;
+}
+.para{
+  width: 50%;
+  font-family: Asul;
+  font-weight: 500;
+  text-align: justify;
+  text-decoration: rgb(66, 29, 2);
+  box-sizing: border-box;
+  background-color: white;
+  opacity: 0.9;
+  color: black;
+  padding: 2% 2% 2% 2%;
+  border-radius: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
