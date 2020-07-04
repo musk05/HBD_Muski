@@ -23,3 +23,12 @@ body{
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
 }
+@media only screen and (max-width:800px){
+  body{
+    background-size: 100%;
+    background-repeat: repeat;
+  }
+  .para{
+    margin-top: 200px;
+    margin-bottom: 400px;
+  }
